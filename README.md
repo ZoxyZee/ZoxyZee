@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br>Building scalable full-stack and AI-powered applications while rebuilding and strengthening my core skills to reach an advanced level—focusing on system design, backend optimization, and real-time architectures.<br>👯 I’m looking to collaborate on<br>Innovative projects around full-stack development, real-time systems, and AI/ML-driven products that solve real-world problems.<br>🤝 I’m looking for help with<br>Designing production-grade architectures, scaling applications efficiently, and mastering advanced backend/system design concepts.<br>🌱 I’m currently learning<br>Distributed systems, backend optimization, DevOps with Docker, and improving real-time AI model performance.<br>💬 Ask me about<br>MERN stack, React/Next.js, Node.js APIs, system building, or integrating AI (OpenCV, TensorFlow) into real-world applications.<br>⚡ Fun fact<br>I enjoy blending logic with creativity—building intelligent systems on one side and smooth, animated web experiences on the other.
 
 
