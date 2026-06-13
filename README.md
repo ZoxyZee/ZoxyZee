@@ -11,11 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoxyZee&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-profile-trophy.vercel.app/?username=ZoxyZee&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
----
 
 
